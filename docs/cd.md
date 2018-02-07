@@ -30,7 +30,7 @@ distribution on [Bintray](https://bintray.com/open-switch/opx-apt).
 Once a package has entered testing, it can be manually promoted to stable. When
 installers are released, a snapshot is taken of the stable distribution.
 
-![Package promotion graph](assets/package_promotion_graph.jpg)
+![Package promotion graph](https://github.com/open-switch/opx-docs/blob/master/images/Continuous-Delivery.png)
 
 ## opx-build Pipeline
 
